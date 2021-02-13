@@ -1,0 +1,1421 @@
+		****** Ran 44 test cases ******
+
+[Case 1/44] - 21 operations
+
+		[] Applying updateNode on 19
+		[] Applying addNode on 6
+		[SUCCESS] Applied updateNode on 19 		 No changes made
+		[] Applying addNode on 16
+		[SUCCESS] Applied addNode on 6 			 Operation successful
+		[] Applying searchTree on 15
+		[SUCCESS] Applied addNode on 16 			 Operation successful
+		[] Applying searchTree on 12
+		[SUCCESS] Applied searchTree on 15 		 No return value
+		[] Applying searchTree on 5
+		[SUCCESS] Applied searchTree on 12 		 No return value
+		[] Applying addNode on 8
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying updateNode on 3
+		[SUCCESS] Applied addNode on 8 			 Operation successful
+		[] Applying updateNode on 10
+		[SUCCESS] Applied updateNode on 3 		 No changes made
+		[] Applying updateNode on 15
+		[SUCCESS] Applied updateNode on 10 		 No changes made
+		[] Applying addNode on 18
+		[SUCCESS] Applied updateNode on 15 		 No changes made
+		[] Applying removeNode on 9
+		[SUCCESS] Applied addNode on 18 			 Operation successful
+		[] Applying searchTree on 14
+		[SUCCESS] Applied removeNode on 9 		 No changes made
+		[] Applying searchTree on 0
+		[SUCCESS] Applied searchTree on 14 		 No return value
+		[] Applying updateNode on 17
+		[SUCCESS] Applied searchTree on 0 		 No return value
+		[] Applying searchTree on 1
+		[SUCCESS] Applied updateNode on 17 		 No changes made
+		[] Applying searchTree on 8
+		[SUCCESS] Applied searchTree on 1 		 No return value
+		[] Applying searchTree on 10
+		[SUCCESS] Applied searchTree on 8 		 Operation successful
+		[] Applying searchTree on 13
+		[SUCCESS] Applied searchTree on 10 		 No return value
+		[] Applying addNode on 11
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying addNode on 3
+		[SUCCESS] Applied addNode on 11 			 Operation successful
+		[SUCCESS] Applied addNode on 3 			 Operation successful
+
+		Node keys DFS Representation: 6 3 16 8 11 18 
+
+[Case 1/44] passed
+
+[Case 2/44] - 8 operations
+
+		[] Applying removeNode on 5
+		[] Applying searchTree on 17
+		[SUCCESS] Applied removeNode on 5 		 No changes made
+		[] Applying updateNode on 12
+		[SUCCESS] Applied searchTree on 17 		 No return value
+		[] Applying addNode on 15
+		[SUCCESS] Applied updateNode on 12 		 No changes made
+		[] Applying searchTree on 5
+		[SUCCESS] Applied addNode on 15 			 Operation successful
+		[] Applying updateNode on 1
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying addNode on 4
+		[SUCCESS] Applied updateNode on 1 		 No changes made
+		[] Applying addNode on 7
+		[SUCCESS] Applied addNode on 4 			 Operation successful
+		[SUCCESS] Applied addNode on 7 			 Operation successful
+
+		Node keys DFS Representation: 15 4 7 
+
+[Case 2/44] passed
+
+[Case 3/44] - 10 operations
+
+		[] Applying addNode on 14
+		[] Applying updateNode on 2
+		[SUCCESS] Applied addNode on 14 			 Operation successful
+		[] Applying searchTree on 9
+		[SUCCESS] Applied updateNode on 2 		 No changes made
+		[] Applying searchTree on 11
+		[SUCCESS] Applied searchTree on 9 		 No return value
+		[] Applying removeNode on 16
+		[SUCCESS] Applied searchTree on 11 		 No return value
+		[] Applying updateNode on 16
+		[SUCCESS] Applied removeNode on 16 		 No changes made
+		[] Applying updateNode on 5
+		[SUCCESS] Applied updateNode on 16 		 No changes made
+		[] Applying searchTree on 13
+		[SUCCESS] Applied updateNode on 5 		 No changes made
+		[] Applying addNode on 12
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying updateNode on 16
+		[SUCCESS] Applied addNode on 12 			 Operation successful
+		[SUCCESS] Applied updateNode on 16 		 No changes made
+
+		Node keys DFS Representation: 14 12 
+
+[Case 3/44] passed
+
+[Case 4/44] - 10 operations
+
+		[] Applying updateNode on 11
+		[] Applying addNode on 3
+		[SUCCESS] Applied updateNode on 11 		 No changes made
+		[] Applying addNode on 19
+		[SUCCESS] Applied addNode on 3 			 Operation successful
+		[] Applying removeNode on 15
+		[SUCCESS] Applied addNode on 19 			 Operation successful
+		[] Applying updateNode on 4
+		[SUCCESS] Applied removeNode on 15 		 No changes made
+		[] Applying removeNode on 5
+		[SUCCESS] Applied updateNode on 4 		 No changes made
+		[] Applying updateNode on 6
+		[SUCCESS] Applied removeNode on 5 		 No changes made
+		[] Applying updateNode on 1
+		[SUCCESS] Applied updateNode on 6 		 No changes made
+		[] Applying addNode on 18
+		[SUCCESS] Applied updateNode on 1 		 No changes made
+		[] Applying searchTree on 9
+		[SUCCESS] Applied addNode on 18 			 Operation successful
+		[SUCCESS] Applied searchTree on 9 		 No return value
+
+		Node keys DFS Representation: 3 19 18 
+
+[Case 4/44] passed
+
+[Case 5/44] - 26 operations
+
+		[] Applying removeNode on 15
+		[] Applying updateNode on 12
+		[SUCCESS] Applied removeNode on 15 		 No changes made
+		[] Applying removeNode on 3
+		[SUCCESS] Applied updateNode on 12 		 No changes made
+		[] Applying updateNode on 6
+		[SUCCESS] Applied removeNode on 3 		 No changes made
+		[] Applying removeNode on 4
+		[SUCCESS] Applied updateNode on 6 		 No changes made
+		[] Applying addNode on 13
+		[SUCCESS] Applied removeNode on 4 		 No changes made
+		[] Applying addNode on 14
+		[SUCCESS] Applied addNode on 13 			 Operation successful
+		[] Applying addNode on 19
+		[SUCCESS] Applied addNode on 14 			 Operation successful
+		[] Applying searchTree on 18
+		[SUCCESS] Applied addNode on 19 			 Operation successful
+		[] Applying addNode on 9
+		[SUCCESS] Applied searchTree on 18 		 No return value
+		[] Applying addNode on 7
+		[SUCCESS] Applied addNode on 9 			 Operation successful
+		[] Applying removeNode on 9
+		[SUCCESS] Applied addNode on 7 			 Operation successful
+		[] Applying updateNode on 16
+		[SUCCESS] Applied removeNode on 9 		 Operation successful
+		[] Applying updateNode on 9
+		[SUCCESS] Applied updateNode on 16 		 No changes made
+		[] Applying updateNode on 3
+		[SUCCESS] Applied updateNode on 9 		 No changes made
+		[] Applying removeNode on 0
+		[SUCCESS] Applied updateNode on 3 		 No changes made
+		[] Applying searchTree on 5
+		[SUCCESS] Applied removeNode on 0 		 No changes made
+		[] Applying updateNode on 10
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying searchTree on 7
+		[SUCCESS] Applied updateNode on 10 		 No changes made
+		[] Applying searchTree on 8
+		[SUCCESS] Applied searchTree on 7 		 Operation successful
+		[] Applying addNode on 14
+		[SUCCESS] Applied searchTree on 8 		 No return value
+		[] Applying removeNode on 15
+		[SUCCESS] Applied addNode on 14 			 Operation successful
+		[] Applying updateNode on 8
+		[SUCCESS] Applied removeNode on 15 		 No changes made
+		[] Applying searchTree on 1
+		[SUCCESS] Applied updateNode on 8 		 No changes made
+		[] Applying removeNode on 16
+		[SUCCESS] Applied searchTree on 1 		 No return value
+		[] Applying updateNode on 12
+		[SUCCESS] Applied removeNode on 16 		 No changes made
+		[SUCCESS] Applied updateNode on 12 		 No changes made
+
+		Node keys DFS Representation: 13 7 14 19 14 
+
+[Case 5/44] passed
+
+[Case 6/44] - 7 operations
+
+		[] Applying searchTree on 17
+		[] Applying addNode on 2
+		[SUCCESS] Applied searchTree on 17 		 No return value
+		[] Applying searchTree on 16
+		[SUCCESS] Applied addNode on 2 			 Operation successful
+		[] Applying searchTree on 12
+		[SUCCESS] Applied searchTree on 16 		 No return value
+		[] Applying removeNode on 18
+		[SUCCESS] Applied searchTree on 12 		 No return value
+		[] Applying removeNode on 15
+		[SUCCESS] Applied removeNode on 18 		 No changes made
+		[] Applying addNode on 3
+		[SUCCESS] Applied removeNode on 15 		 No changes made
+		[SUCCESS] Applied addNode on 3 			 Operation successful
+
+		Node keys DFS Representation: 2 3 
+
+[Case 6/44] passed
+
+[Case 7/44] - 24 operations
+
+		[] Applying searchTree on 5
+		[] Applying searchTree on 5
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying searchTree on 6
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying updateNode on 14
+		[SUCCESS] Applied searchTree on 6 		 No return value
+		[] Applying searchTree on 19
+		[SUCCESS] Applied updateNode on 14 		 No changes made
+		[] Applying removeNode on 7
+		[SUCCESS] Applied searchTree on 19 		 No return value
+		[] Applying removeNode on 19
+		[SUCCESS] Applied removeNode on 7 		 No changes made
+		[SUCCESS] Applied removeNode on 19 		 No changes made
+		[] Applying searchTree on 13
+		[] Applying updateNode on 5
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying removeNode on 10
+		[SUCCESS] Applied updateNode on 5 		 No changes made
+		[] Applying searchTree on 17
+		[SUCCESS] Applied removeNode on 10 		 No changes made
+		[] Applying searchTree on 0
+		[SUCCESS] Applied searchTree on 17 		 No return value
+		[] Applying addNode on 6
+		[SUCCESS] Applied searchTree on 0 		 No return value
+		[] Applying addNode on 0
+		[SUCCESS] Applied addNode on 6 			 Operation successful
+		[] Applying searchTree on 7
+		[SUCCESS] Applied addNode on 0 			 Operation successful
+		[] Applying searchTree on 12
+		[SUCCESS] Applied searchTree on 7 		 No return value
+		[] Applying updateNode on 12
+		[SUCCESS] Applied searchTree on 12 		 No return value
+		[] Applying addNode on 0
+		[SUCCESS] Applied updateNode on 12 		 No changes made
+		[] Applying searchTree on 6
+		[SUCCESS] Applied addNode on 0 			 Operation successful
+		[] Applying searchTree on 14
+		[SUCCESS] Applied searchTree on 6 		 Operation successful
+		[] Applying addNode on 11
+		[SUCCESS] Applied searchTree on 14 		 No return value
+		[] Applying removeNode on 16
+		[SUCCESS] Applied addNode on 11 			 Operation successful
+		[] Applying updateNode on 2
+		[SUCCESS] Applied removeNode on 16 		 No changes made
+		[] Applying addNode on 5
+		[SUCCESS] Applied updateNode on 2 		 No changes made
+		[SUCCESS] Applied addNode on 5 			 Operation successful
+
+		Node keys DFS Representation: 6 0 0 5 11 
+
+[Case 7/44] passed
+
+[Case 8/44] - 5 operations
+
+		[] Applying updateNode on 1
+		[] Applying searchTree on 7
+		[SUCCESS] Applied updateNode on 1 		 No changes made
+		[] Applying searchTree on 1
+		[SUCCESS] Applied searchTree on 7 		 No return value
+		[] Applying updateNode on 8
+		[SUCCESS] Applied searchTree on 1 		 No return value
+		[] Applying updateNode on 17
+		[SUCCESS] Applied updateNode on 8 		 No changes made
+		[SUCCESS] Applied updateNode on 17 		 No changes made
+
+		Node keys DFS Representation: 
+
+[Case 8/44] passed
+
+[Case 9/44] - 24 operations
+
+		[] Applying removeNode on 5
+		[] Applying removeNode on 0
+		[SUCCESS] Applied removeNode on 5 		 No changes made
+		[] Applying searchTree on 1
+		[SUCCESS] Applied removeNode on 0 		 No changes made
+		[] Applying addNode on 16
+		[SUCCESS] Applied searchTree on 1 		 No return value
+		[] Applying updateNode on 14
+		[SUCCESS] Applied addNode on 16 			 Operation successful
+		[] Applying removeNode on 16
+		[SUCCESS] Applied updateNode on 14 		 No changes made
+		[] Applying addNode on 13
+		[SUCCESS] Applied removeNode on 16 		 Operation successful
+		[] Applying removeNode on 6
+		[SUCCESS] Applied addNode on 13 			 Operation successful
+		[] Applying removeNode on 19
+		[SUCCESS] Applied removeNode on 6 		 No changes made
+		[] Applying searchTree on 5
+		[SUCCESS] Applied removeNode on 19 		 No changes made
+		[] Applying removeNode on 2
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying updateNode on 7
+		[SUCCESS] Applied removeNode on 2 		 No changes made
+		[] Applying updateNode on 8
+		[SUCCESS] Applied updateNode on 7 		 No changes made
+		[] Applying updateNode on 5
+		[SUCCESS] Applied updateNode on 8 		 No changes made
+		[] Applying removeNode on 8
+		[SUCCESS] Applied updateNode on 5 		 No changes made
+		[] Applying updateNode on 13
+		[SUCCESS] Applied removeNode on 8 		 No changes made
+		[] Applying removeNode on 6
+		[SUCCESS] Applied updateNode on 13 		 Operation successful - New value: 14808
+		[] Applying addNode on 8
+		[SUCCESS] Applied removeNode on 6 		 No changes made
+		[] Applying removeNode on 6
+		[SUCCESS] Applied addNode on 8 			 Operation successful
+		[] Applying updateNode on 6
+		[SUCCESS] Applied removeNode on 6 		 No changes made
+		[] Applying removeNode on 14
+		[SUCCESS] Applied updateNode on 6 		 No changes made
+		[] Applying removeNode on 3
+		[SUCCESS] Applied removeNode on 14 		 No changes made
+		[] Applying updateNode on 9
+		[SUCCESS] Applied removeNode on 3 		 No changes made
+		[SUCCESS] Applied updateNode on 9 		 No changes made
+		[] Applying removeNode on 11
+		[SUCCESS] Applied removeNode on 11 		 No changes made
+
+		Node keys DFS Representation: 13 8 
+
+[Case 9/44] passed
+
+[Case 10/44] - 9 operations
+
+		[] Applying addNode on 0
+		[] Applying updateNode on 11
+		[SUCCESS] Applied addNode on 0 			 Operation successful
+		[] Applying searchTree on 5
+		[SUCCESS] Applied updateNode on 11 		 No changes made
+		[] Applying removeNode on 17
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying addNode on 9
+		[SUCCESS] Applied removeNode on 17 		 No changes made
+		[] Applying updateNode on 19
+		[SUCCESS] Applied addNode on 9 			 Operation successful
+		[] Applying searchTree on 6
+		[SUCCESS] Applied updateNode on 19 		 No changes made
+		[] Applying updateNode on 14
+		[SUCCESS] Applied searchTree on 6 		 No return value
+		[] Applying removeNode on 7
+		[SUCCESS] Applied updateNode on 14 		 No changes made
+		[SUCCESS] Applied removeNode on 7 		 No changes made
+
+		Node keys DFS Representation: 0 9 
+
+[Case 10/44] passed
+
+[Case 11/44] - 6 operations
+
+		[] Applying removeNode on 4
+		[] Applying addNode on 13
+		[SUCCESS] Applied removeNode on 4 		 No changes made
+		[] Applying removeNode on 2
+		[SUCCESS] Applied addNode on 13 			 Operation successful
+		[] Applying removeNode on 1
+		[SUCCESS] Applied removeNode on 2 		 No changes made
+		[] Applying addNode on 0
+		[SUCCESS] Applied removeNode on 1 		 No changes made
+		[] Applying updateNode on 6
+		[SUCCESS] Applied addNode on 0 			 Operation successful
+		[SUCCESS] Applied updateNode on 6 		 No changes made
+
+		Node keys DFS Representation: 13 0 
+
+[Case 11/44] passed
+
+[Case 12/44] - 1 operations
+
+		[] Applying updateNode on 0
+		[SUCCESS] Applied updateNode on 0 		 No changes made
+
+		Node keys DFS Representation: 
+
+[Case 12/44] passed
+
+[Case 13/44] - 18 operations
+
+		[] Applying updateNode on 19
+		[] Applying addNode on 15
+		[SUCCESS] Applied updateNode on 19 		 No changes made
+		[] Applying searchTree on 18
+		[SUCCESS] Applied addNode on 15 			 Operation successful
+		[] Applying searchTree on 9
+		[SUCCESS] Applied searchTree on 18 		 No return value
+		[] Applying searchTree on 15
+		[SUCCESS] Applied searchTree on 9 		 No return value
+		[] Applying addNode on 18
+		[SUCCESS] Applied searchTree on 15 		 Operation successful
+		[] Applying addNode on 2
+		[SUCCESS] Applied addNode on 18 			 Operation successful
+		[] Applying addNode on 7
+		[SUCCESS] Applied addNode on 2 			 Operation successful
+		[] Applying removeNode on 2
+		[SUCCESS] Applied addNode on 7 			 Operation successful
+		[] Applying updateNode on 13
+		[SUCCESS] Applied removeNode on 2 		 Operation successful
+		[] Applying updateNode on 14
+		[SUCCESS] Applied updateNode on 13 		 No changes made
+		[] Applying removeNode on 11
+		[SUCCESS] Applied updateNode on 14 		 No changes made
+		[] Applying updateNode on 0
+		[SUCCESS] Applied removeNode on 11 		 No changes made
+		[] Applying addNode on 4
+		[SUCCESS] Applied updateNode on 0 		 No changes made
+		[] Applying updateNode on 0
+		[SUCCESS] Applied addNode on 4 			 Operation successful
+		[] Applying updateNode on 2
+		[SUCCESS] Applied updateNode on 0 		 No changes made
+		[] Applying addNode on 1
+		[SUCCESS] Applied updateNode on 2 		 No changes made
+		[] Applying searchTree on 12
+		[SUCCESS] Applied addNode on 1 			 Operation successful
+		[SUCCESS] Applied searchTree on 12 		 No return value
+
+		Node keys DFS Representation: 15 7 4 1 18 
+
+[Case 13/44] passed
+
+[Case 14/44] - 16 operations
+
+		[] Applying updateNode on 4
+		[] Applying searchTree on 7
+		[SUCCESS] Applied updateNode on 4 		 No changes made
+		[] Applying removeNode on 0
+		[SUCCESS] Applied searchTree on 7 		 No return value
+		[] Applying addNode on 12
+		[SUCCESS] Applied removeNode on 0 		 No changes made
+		[] Applying searchTree on 19
+		[SUCCESS] Applied addNode on 12 			 Operation successful
+		[] Applying removeNode on 13
+		[SUCCESS] Applied searchTree on 19 		 No return value
+		[] Applying searchTree on 9
+		[SUCCESS] Applied removeNode on 13 		 No changes made
+		[] Applying searchTree on 16
+		[SUCCESS] Applied searchTree on 9 		 No return value
+		[] Applying searchTree on 7
+		[SUCCESS] Applied searchTree on 16 		 No return value
+		[] Applying updateNode on 14
+		[SUCCESS] Applied searchTree on 7 		 No return value
+		[] Applying addNode on 3
+		[SUCCESS] Applied updateNode on 14 		 No changes made
+		[] Applying updateNode on 14
+		[SUCCESS] Applied addNode on 3 			 Operation successful
+		[] Applying searchTree on 4
+		[SUCCESS] Applied updateNode on 14 		 No changes made
+		[] Applying updateNode on 13
+		[SUCCESS] Applied searchTree on 4 		 No return value
+		[] Applying addNode on 15
+		[SUCCESS] Applied updateNode on 13 		 No changes made
+		[] Applying searchTree on 7
+		[SUCCESS] Applied addNode on 15 			 Operation successful
+		[SUCCESS] Applied searchTree on 7 		 No return value
+
+		Node keys DFS Representation: 12 3 15 
+
+[Case 14/44] passed
+
+[Case 15/44] - 22 operations
+
+		[] Applying searchTree on 5
+		[] Applying addNode on 9
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying addNode on 18
+		[SUCCESS] Applied addNode on 9 			 Operation successful
+		[] Applying updateNode on 5
+		[SUCCESS] Applied addNode on 18 			 Operation successful
+		[] Applying removeNode on 6
+		[SUCCESS] Applied updateNode on 5 		 No changes made
+		[] Applying removeNode on 0
+		[SUCCESS] Applied removeNode on 6 		 No changes made
+		[] Applying addNode on 10
+		[SUCCESS] Applied removeNode on 0 		 No changes made
+		[] Applying addNode on 8
+		[SUCCESS] Applied addNode on 10 			 Operation successful
+		[] Applying removeNode on 1
+		[SUCCESS] Applied addNode on 8 			 Operation successful
+		[] Applying removeNode on 8
+		[SUCCESS] Applied removeNode on 1 		 No changes made
+		[] Applying searchTree on 10
+		[SUCCESS] Applied removeNode on 8 		 Operation successful
+		[] Applying addNode on 9
+		[SUCCESS] Applied searchTree on 10 		 Operation successful
+		[] Applying searchTree on 1
+		[SUCCESS] Applied addNode on 9 			 Operation successful
+		[] Applying updateNode on 8
+		[SUCCESS] Applied searchTree on 1 		 No return value
+		[] Applying searchTree on 15
+		[SUCCESS] Applied updateNode on 8 		 No changes made
+		[] Applying removeNode on 14
+		[SUCCESS] Applied searchTree on 15 		 No return value
+		[] Applying searchTree on 13
+		[SUCCESS] Applied removeNode on 14 		 No changes made
+		[] Applying removeNode on 14
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying addNode on 11
+		[SUCCESS] Applied removeNode on 14 		 No changes made
+		[] Applying removeNode on 15
+		[SUCCESS] Applied addNode on 11 			 Operation successful
+		[] Applying addNode on 16
+		[SUCCESS] Applied removeNode on 15 		 No changes made
+		[] Applying searchTree on 9
+		[SUCCESS] Applied addNode on 16 			 Operation successful
+		[SUCCESS] Applied searchTree on 9 		 Operation successful
+
+		Node keys DFS Representation: 9 18 10 9 11 16 
+
+[Case 15/44] passed
+
+[Case 16/44] - 10 operations
+
+		[] Applying searchTree on 8
+		[] Applying removeNode on 19
+		[SUCCESS] Applied searchTree on 8 		 No return value
+		[] Applying removeNode on 10
+		[SUCCESS] Applied removeNode on 19 		 No changes made
+		[] Applying updateNode on 3
+		[SUCCESS] Applied removeNode on 10 		 No changes made
+		[] Applying addNode on 16
+		[SUCCESS] Applied updateNode on 3 		 No changes made
+		[] Applying updateNode on 16
+		[SUCCESS] Applied addNode on 16 			 Operation successful
+		[] Applying removeNode on 11
+		[SUCCESS] Applied updateNode on 16 		 Operation successful - New value: 31117
+		[] Applying searchTree on 10
+		[SUCCESS] Applied removeNode on 11 		 No changes made
+		[] Applying addNode on 4
+		[SUCCESS] Applied searchTree on 10 		 No return value
+		[] Applying removeNode on 10
+		[SUCCESS] Applied addNode on 4 			 Operation successful
+		[SUCCESS] Applied removeNode on 10 		 No changes made
+
+		Node keys DFS Representation: 16 4 
+
+[Case 16/44] passed
+
+[Case 17/44] - 3 operations
+
+		[] Applying removeNode on 6
+		[] Applying removeNode on 9
+		[SUCCESS] Applied removeNode on 6 		 No changes made
+		[] Applying updateNode on 9
+		[SUCCESS] Applied removeNode on 9 		 No changes made
+		[SUCCESS] Applied updateNode on 9 		 No changes made
+
+		Node keys DFS Representation: 
+
+[Case 17/44] passed
+
+[Case 18/44] - 20 operations
+
+		[] Applying updateNode on 1
+		[] Applying removeNode on 5
+		[SUCCESS] Applied updateNode on 1 		 No changes made
+		[] Applying searchTree on 3
+		[SUCCESS] Applied removeNode on 5 		 No changes made
+		[] Applying removeNode on 0
+		[SUCCESS] Applied searchTree on 3 		 No return value
+		[] Applying addNode on 3
+		[SUCCESS] Applied removeNode on 0 		 No changes made
+		[] Applying addNode on 8
+		[SUCCESS] Applied addNode on 3 			 Operation successful
+		[] Applying removeNode on 14
+		[SUCCESS] Applied addNode on 8 			 Operation successful
+		[] Applying updateNode on 3
+		[SUCCESS] Applied removeNode on 14 		 No changes made
+		[] Applying removeNode on 4
+		[SUCCESS] Applied updateNode on 3 		 Operation successful - New value: 47981
+		[] Applying searchTree on 5
+		[SUCCESS] Applied removeNode on 4 		 No changes made
+		[] Applying removeNode on 18
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying searchTree on 6
+		[SUCCESS] Applied removeNode on 18 		 No changes made
+		[] Applying searchTree on 15
+		[SUCCESS] Applied searchTree on 6 		 No return value
+		[] Applying addNode on 13
+		[SUCCESS] Applied searchTree on 15 		 No return value
+		[] Applying updateNode on 7
+		[SUCCESS] Applied addNode on 13 			 Operation successful
+		[] Applying addNode on 4
+		[SUCCESS] Applied updateNode on 7 		 No changes made
+		[] Applying addNode on 14
+		[SUCCESS] Applied addNode on 4 			 Operation successful
+		[] Applying addNode on 5
+		[SUCCESS] Applied addNode on 14 			 Operation successful
+		[] Applying removeNode on 7
+		[SUCCESS] Applied addNode on 5 			 Operation successful
+		[] Applying searchTree on 1
+		[SUCCESS] Applied removeNode on 7 		 No changes made
+		[SUCCESS] Applied searchTree on 1 		 No return value
+
+		Node keys DFS Representation: 3 8 4 5 13 14 
+
+[Case 18/44] passed
+
+[Case 19/44] - 25 operations
+
+		[] Applying updateNode on 10
+		[] Applying updateNode on 12
+		[SUCCESS] Applied updateNode on 10 		 No changes made
+		[] Applying addNode on 5
+		[SUCCESS] Applied updateNode on 12 		 No changes made
+		[] Applying updateNode on 10
+		[SUCCESS] Applied addNode on 5 			 Operation successful
+		[] Applying addNode on 0
+		[SUCCESS] Applied updateNode on 10 		 No changes made
+		[] Applying updateNode on 8
+		[SUCCESS] Applied addNode on 0 			 Operation successful
+		[] Applying removeNode on 1
+		[SUCCESS] Applied updateNode on 8 		 No changes made
+		[] Applying removeNode on 0
+		[SUCCESS] Applied removeNode on 1 		 No changes made
+		[] Applying searchTree on 15
+		[SUCCESS] Applied removeNode on 0 		 Operation successful
+		[] Applying searchTree on 0
+		[SUCCESS] Applied searchTree on 15 		 No return value
+		[] Applying addNode on 7
+		[SUCCESS] Applied searchTree on 0 		 No return value
+		[] Applying addNode on 1
+		[SUCCESS] Applied addNode on 7 			 Operation successful
+		[] Applying updateNode on 0
+		[SUCCESS] Applied addNode on 1 			 Operation successful
+		[] Applying removeNode on 7
+		[SUCCESS] Applied updateNode on 0 		 No changes made
+		[] Applying updateNode on 4
+		[SUCCESS] Applied removeNode on 7 		 Operation successful
+		[] Applying removeNode on 16
+		[SUCCESS] Applied updateNode on 4 		 No changes made
+		[] Applying updateNode on 4
+		[SUCCESS] Applied removeNode on 16 		 No changes made
+		[] Applying removeNode on 17
+		[SUCCESS] Applied updateNode on 4 		 No changes made
+		[] Applying addNode on 7
+		[SUCCESS] Applied removeNode on 17 		 No changes made
+		[] Applying removeNode on 17
+		[SUCCESS] Applied addNode on 7 			 Operation successful
+		[] Applying addNode on 1
+		[SUCCESS] Applied removeNode on 17 		 No changes made
+		[] Applying updateNode on 18
+		[SUCCESS] Applied addNode on 1 			 Operation successful
+		[] Applying searchTree on 13
+		[SUCCESS] Applied updateNode on 18 		 No changes made
+		[] Applying updateNode on 13
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying addNode on 1
+		[SUCCESS] Applied updateNode on 13 		 No changes made
+		[SUCCESS] Applied addNode on 1 			 Operation successful
+
+		Node keys DFS Representation: 5 1 1 1 7 
+
+[Case 19/44] passed
+
+[Case 20/44] - 20 operations
+
+		[] Applying updateNode on 18
+		[] Applying updateNode on 13
+		[SUCCESS] Applied updateNode on 18 		 No changes made
+		[] Applying removeNode on 5
+		[SUCCESS] Applied updateNode on 13 		 No changes made
+		[] Applying updateNode on 13
+		[SUCCESS] Applied removeNode on 5 		 No changes made
+		[] Applying updateNode on 18
+		[SUCCESS] Applied updateNode on 13 		 No changes made
+		[] Applying searchTree on 11
+		[SUCCESS] Applied updateNode on 18 		 No changes made
+		[] Applying updateNode on 0
+		[SUCCESS] Applied searchTree on 11 		 No return value
+		[] Applying addNode on 3
+		[SUCCESS] Applied updateNode on 0 		 No changes made
+		[] Applying addNode on 4
+		[SUCCESS] Applied addNode on 3 			 Operation successful
+		[] Applying updateNode on 11
+		[SUCCESS] Applied addNode on 4 			 Operation successful
+		[] Applying removeNode on 11
+		[SUCCESS] Applied updateNode on 11 		 No changes made
+		[] Applying updateNode on 4
+		[SUCCESS] Applied removeNode on 11 		 No changes made
+		[] Applying searchTree on 13
+		[SUCCESS] Applied updateNode on 4 		 Operation successful - New value: 49212
+		[] Applying updateNode on 5
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying removeNode on 10
+		[SUCCESS] Applied updateNode on 5 		 No changes made
+		[] Applying searchTree on 5
+		[SUCCESS] Applied removeNode on 10 		 No changes made
+		[] Applying addNode on 7
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying removeNode on 6
+		[SUCCESS] Applied addNode on 7 			 Operation successful
+		[] Applying updateNode on 14
+		[SUCCESS] Applied removeNode on 6 		 No changes made
+		[] Applying updateNode on 4
+		[SUCCESS] Applied updateNode on 14 		 No changes made
+		[SUCCESS] Applied updateNode on 4 		 Operation successful - New value: 30406
+
+		Node keys DFS Representation: 3 4 7 
+
+[Case 20/44] passed
+
+[Case 21/44] - 16 operations
+
+		[] Applying addNode on 9
+		[] Applying searchTree on 9
+		[SUCCESS] Applied addNode on 9 			 Operation successful
+		[] Applying searchTree on 6
+		[SUCCESS] Applied searchTree on 9 		 Operation successful
+		[] Applying removeNode on 4
+		[SUCCESS] Applied searchTree on 6 		 No return value
+		[] Applying searchTree on 1
+		[] Applying removeNode on 12
+		[SUCCESS] Applied searchTree on 1 		 No return value
+		[SUCCESS] Applied removeNode on 4 		 No changes made
+		[] Applying removeNode on 16
+		[SUCCESS] Applied removeNode on 12 		 No changes made
+		[] Applying updateNode on 4
+		[SUCCESS] Applied removeNode on 16 		 No changes made
+		[] Applying removeNode on 17
+		[SUCCESS] Applied updateNode on 4 		 No changes made
+		[] Applying removeNode on 6
+		[SUCCESS] Applied removeNode on 17 		 No changes made
+		[] Applying searchTree on 13
+		[SUCCESS] Applied removeNode on 6 		 No changes made
+		[] Applying removeNode on 4
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying removeNode on 12
+		[SUCCESS] Applied removeNode on 4 		 No changes made
+		[] Applying updateNode on 0
+		[SUCCESS] Applied removeNode on 12 		 No changes made
+		[] Applying updateNode on 19
+		[SUCCESS] Applied updateNode on 0 		 No changes made
+		[] Applying updateNode on 17
+		[SUCCESS] Applied updateNode on 19 		 No changes made
+		[SUCCESS] Applied updateNode on 17 		 No changes made
+
+		Node keys DFS Representation: 9 
+
+[Case 21/44] passed
+
+[Case 22/44] - 1 operations
+
+		[] Applying searchTree on 5
+		[SUCCESS] Applied searchTree on 5 		 No return value
+
+		Node keys DFS Representation: 
+
+[Case 22/44] passed
+
+[Case 23/44] - 22 operations
+
+		[] Applying searchTree on 7
+		[] Applying removeNode on 18
+		[SUCCESS] Applied searchTree on 7 		 No return value
+		[] Applying updateNode on 15
+		[SUCCESS] Applied removeNode on 18 		 No changes made
+		[] Applying removeNode on 12
+		[SUCCESS] Applied updateNode on 15 		 No changes made
+		[] Applying addNode on 5
+		[] Applying removeNode on 14
+		[SUCCESS] Applied addNode on 5 			 Operation successful
+		[SUCCESS] Applied removeNode on 12 		 No changes made
+		[] Applying removeNode on 3
+		[SUCCESS] Applied removeNode on 14 		 No changes made
+		[] Applying searchTree on 17
+		[SUCCESS] Applied removeNode on 3 		 No changes made
+		[] Applying removeNode on 12
+		[SUCCESS] Applied searchTree on 17 		 No return value
+		[] Applying addNode on 6
+		[SUCCESS] Applied removeNode on 12 		 No changes made
+		[] Applying addNode on 18
+		[SUCCESS] Applied addNode on 6 			 Operation successful
+		[] Applying searchTree on 0
+		[SUCCESS] Applied addNode on 18 			 Operation successful
+		[] Applying updateNode on 10
+		[SUCCESS] Applied searchTree on 0 		 No return value
+		[] Applying updateNode on 3
+		[SUCCESS] Applied updateNode on 10 		 No changes made
+		[] Applying updateNode on 10
+		[SUCCESS] Applied updateNode on 3 		 No changes made
+		[] Applying searchTree on 10
+		[SUCCESS] Applied updateNode on 10 		 No changes made
+		[] Applying searchTree on 15
+		[SUCCESS] Applied searchTree on 10 		 No return value
+		[] Applying removeNode on 10
+		[SUCCESS] Applied searchTree on 15 		 No return value
+		[] Applying searchTree on 0
+		[SUCCESS] Applied removeNode on 10 		 No changes made
+		[] Applying searchTree on 0
+		[SUCCESS] Applied searchTree on 0 		 No return value
+		[] Applying addNode on 9
+		[SUCCESS] Applied searchTree on 0 		 No return value
+		[] Applying addNode on 13
+		[SUCCESS] Applied addNode on 9 			 Operation successful
+		[SUCCESS] Applied addNode on 13 			 Operation successful
+
+		Node keys DFS Representation: 5 6 18 9 13 
+
+[Case 23/44] passed
+
+[Case 24/44] - 6 operations
+
+		[] Applying addNode on 0
+		[] Applying updateNode on 11
+		[SUCCESS] Applied addNode on 0 			 Operation successful
+		[] Applying removeNode on 1
+		[SUCCESS] Applied updateNode on 11 		 No changes made
+		[] Applying addNode on 2
+		[SUCCESS] Applied removeNode on 1 		 No changes made
+		[] Applying searchTree on 6
+		[SUCCESS] Applied addNode on 2 			 Operation successful
+		[] Applying updateNode on 12
+		[SUCCESS] Applied searchTree on 6 		 No return value
+		[SUCCESS] Applied updateNode on 12 		 No changes made
+
+		Node keys DFS Representation: 0 2 
+
+[Case 24/44] passed
+
+[Case 25/44] - 28 operations
+
+		[] Applying updateNode on 12
+		[] Applying updateNode on 4
+		[SUCCESS] Applied updateNode on 12 		 No changes made
+		[] Applying updateNode on 16
+		[SUCCESS] Applied updateNode on 4 		 No changes made
+		[] Applying removeNode on 19
+		[SUCCESS] Applied updateNode on 16 		 No changes made
+		[] Applying searchTree on 1
+		[SUCCESS] Applied removeNode on 19 		 No changes made
+		[] Applying searchTree on 3
+		[SUCCESS] Applied searchTree on 1 		 No return value
+		[] Applying searchTree on 2
+		[SUCCESS] Applied searchTree on 3 		 No return value
+		[] Applying searchTree on 6
+		[SUCCESS] Applied searchTree on 2 		 No return value
+		[] Applying searchTree on 7
+		[SUCCESS] Applied searchTree on 6 		 No return value
+		[] Applying addNode on 11
+		[SUCCESS] Applied searchTree on 7 		 No return value
+		[] Applying addNode on 9
+		[SUCCESS] Applied addNode on 11 			 Operation successful
+		[] Applying updateNode on 5
+		[SUCCESS] Applied addNode on 9 			 Operation successful
+		[] Applying removeNode on 0
+		[SUCCESS] Applied updateNode on 5 		 No changes made
+		[] Applying searchTree on 11
+		[SUCCESS] Applied removeNode on 0 		 No changes made
+		[] Applying removeNode on 16
+		[SUCCESS] Applied searchTree on 11 		 Operation successful
+		[] Applying updateNode on 4
+		[SUCCESS] Applied removeNode on 16 		 No changes made
+		[] Applying updateNode on 16
+		[SUCCESS] Applied updateNode on 4 		 No changes made
+		[] Applying updateNode on 10
+		[SUCCESS] Applied updateNode on 16 		 No changes made
+		[] Applying removeNode on 14
+		[SUCCESS] Applied updateNode on 10 		 No changes made
+		[] Applying removeNode on 11
+		[SUCCESS] Applied removeNode on 14 		 No changes made
+		[] Applying addNode on 12
+		[SUCCESS] Applied removeNode on 11 		 Operation successful
+		[] Applying addNode on 14
+		[SUCCESS] Applied addNode on 12 			 Operation successful
+		[] Applying updateNode on 2
+		[SUCCESS] Applied addNode on 14 			 Operation successful
+		[] Applying searchTree on 17
+		[SUCCESS] Applied updateNode on 2 		 No changes made
+		[] Applying addNode on 13
+		[SUCCESS] Applied searchTree on 17 		 No return value
+		[] Applying removeNode on 2
+		[SUCCESS] Applied addNode on 13 			 Operation successful
+		[] Applying addNode on 2
+		[SUCCESS] Applied removeNode on 2 		 No changes made
+		[] Applying searchTree on 11
+		[SUCCESS] Applied addNode on 2 			 Operation successful
+		[SUCCESS] Applied searchTree on 11 		 No return value
+
+		Node keys DFS Representation: 9 2 12 14 13 
+
+[Case 25/44] passed
+
+[Case 26/44] - 3 operations
+
+		[] Applying addNode on 4
+		[] Applying addNode on 15
+		[SUCCESS] Applied addNode on 4 			 Operation successful
+		[] Applying addNode on 6
+		[SUCCESS] Applied addNode on 15 			 Operation successful
+		[SUCCESS] Applied addNode on 6 			 Operation successful
+
+		Node keys DFS Representation: 4 15 6 
+
+[Case 26/44] passed
+
+[Case 27/44] - 21 operations
+
+		[] Applying updateNode on 11
+		[] Applying addNode on 17
+		[SUCCESS] Applied updateNode on 11 		 No changes made
+		[] Applying addNode on 16
+		[SUCCESS] Applied addNode on 17 			 Operation successful
+		[] Applying removeNode on 4
+		[SUCCESS] Applied addNode on 16 			 Operation successful
+		[] Applying removeNode on 2
+		[SUCCESS] Applied removeNode on 4 		 No changes made
+		[] Applying addNode on 2
+		[SUCCESS] Applied removeNode on 2 		 No changes made
+		[] Applying searchTree on 19
+		[SUCCESS] Applied addNode on 2 			 Operation successful
+		[] Applying removeNode on 14
+		[SUCCESS] Applied searchTree on 19 		 No return value
+		[] Applying removeNode on 12
+		[SUCCESS] Applied removeNode on 14 		 No changes made
+		[] Applying searchTree on 5
+		[SUCCESS] Applied removeNode on 12 		 No changes made
+		[] Applying removeNode on 6
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying removeNode on 1
+		[SUCCESS] Applied removeNode on 6 		 No changes made
+		[] Applying removeNode on 16
+		[SUCCESS] Applied removeNode on 1 		 No changes made
+		[] Applying searchTree on 8
+		[SUCCESS] Applied removeNode on 16 		 Operation successful
+		[] Applying updateNode on 16
+		[SUCCESS] Applied searchTree on 8 		 No return value
+		[] Applying removeNode on 17
+		[SUCCESS] Applied updateNode on 16 		 No changes made
+		[] Applying removeNode on 19
+		[SUCCESS] Applied removeNode on 17 		 Operation successful
+		[] Applying addNode on 17
+		[SUCCESS] Applied removeNode on 19 		 No changes made
+		[] Applying updateNode on 5
+		[SUCCESS] Applied addNode on 17 			 Operation successful
+		[] Applying updateNode on 5
+		[SUCCESS] Applied updateNode on 5 		 No changes made
+		[] Applying updateNode on 17
+		[SUCCESS] Applied updateNode on 5 		 No changes made
+		[SUCCESS] Applied updateNode on 17 		 Operation successful - New value: 37543
+
+		Node keys DFS Representation: 2 17 
+
+[Case 27/44] passed
+
+[Case 28/44] - 13 operations
+
+		[] Applying removeNode on 4
+		[] Applying updateNode on 10
+		[SUCCESS] Applied removeNode on 4 		 No changes made
+		[] Applying addNode on 7
+		[SUCCESS] Applied updateNode on 10 		 No changes made
+		[] Applying addNode on 14
+		[SUCCESS] Applied addNode on 7 			 Operation successful
+		[] Applying updateNode on 4
+		[SUCCESS] Applied addNode on 14 			 Operation successful
+		[] Applying removeNode on 6
+		[SUCCESS] Applied updateNode on 4 		 No changes made
+		[] Applying updateNode on 9
+		[SUCCESS] Applied removeNode on 6 		 No changes made
+		[] Applying searchTree on 6
+		[SUCCESS] Applied updateNode on 9 		 No changes made
+		[] Applying updateNode on 16
+		[SUCCESS] Applied searchTree on 6 		 No return value
+		[] Applying addNode on 15
+		[SUCCESS] Applied updateNode on 16 		 No changes made
+		[] Applying updateNode on 11
+		[SUCCESS] Applied addNode on 15 			 Operation successful
+		[] Applying updateNode on 14
+		[SUCCESS] Applied updateNode on 11 		 No changes made
+		[] Applying searchTree on 10
+		[SUCCESS] Applied updateNode on 14 		 Operation successful - New value: 44692
+		[SUCCESS] Applied searchTree on 10 		 No return value
+
+		Node keys DFS Representation: 7 14 15 
+
+[Case 28/44] passed
+
+[Case 29/44] - 3 operations
+
+		[] Applying addNode on 14
+		[] Applying removeNode on 10
+		[SUCCESS] Applied addNode on 14 			 Operation successful
+		[] Applying searchTree on 13
+		[SUCCESS] Applied removeNode on 10 		 No changes made
+		[SUCCESS] Applied searchTree on 13 		 No return value
+
+		Node keys DFS Representation: 14 
+
+[Case 29/44] passed
+
+[Case 30/44] - 4 operations
+
+		[] Applying searchTree on 5
+		[] Applying removeNode on 9
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying updateNode on 17
+		[SUCCESS] Applied removeNode on 9 		 No changes made
+		[] Applying removeNode on 2
+		[SUCCESS] Applied updateNode on 17 		 No changes made
+		[SUCCESS] Applied removeNode on 2 		 No changes made
+
+		Node keys DFS Representation: 
+
+[Case 30/44] passed
+
+[Case 31/44] - 8 operations
+
+		[] Applying searchTree on 8
+		[] Applying addNode on 10
+		[SUCCESS] Applied searchTree on 8 		 No return value
+		[] Applying updateNode on 19
+		[SUCCESS] Applied addNode on 10 			 Operation successful
+		[] Applying updateNode on 7
+		[SUCCESS] Applied updateNode on 19 		 No changes made
+		[] Applying updateNode on 1
+		[SUCCESS] Applied updateNode on 7 		 No changes made
+		[] Applying addNode on 6
+		[SUCCESS] Applied updateNode on 1 		 No changes made
+		[] Applying updateNode on 3
+		[SUCCESS] Applied addNode on 6 			 Operation successful
+		[] Applying addNode on 9
+		[SUCCESS] Applied updateNode on 3 		 No changes made
+		[SUCCESS] Applied addNode on 9 			 Operation successful
+
+		Node keys DFS Representation: 10 6 9 
+
+[Case 31/44] passed
+
+[Case 32/44] - 6 operations
+
+		[] Applying removeNode on 15
+		[] Applying addNode on 11
+		[SUCCESS] Applied removeNode on 15 		 No changes made
+		[] Applying updateNode on 12
+		[SUCCESS] Applied addNode on 11 			 Operation successful
+		[] Applying searchTree on 14
+		[SUCCESS] Applied updateNode on 12 		 No changes made
+		[] Applying searchTree on 13
+		[SUCCESS] Applied searchTree on 14 		 No return value
+		[] Applying updateNode on 2
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[SUCCESS] Applied updateNode on 2 		 No changes made
+
+		Node keys DFS Representation: 11 
+
+[Case 32/44] passed
+
+[Case 33/44] - 9 operations
+
+		[] Applying addNode on 1
+		[] Applying addNode on 1
+		[SUCCESS] Applied addNode on 1 			 Operation successful
+		[] Applying updateNode on 8
+		[SUCCESS] Applied addNode on 1 			 Operation successful
+		[] Applying removeNode on 19
+		[SUCCESS] Applied updateNode on 8 		 No changes made
+		[] Applying removeNode on 3
+		[SUCCESS] Applied removeNode on 19 		 No changes made
+		[] Applying searchTree on 9
+		[SUCCESS] Applied removeNode on 3 		 No changes made
+		[] Applying searchTree on 14
+		[SUCCESS] Applied searchTree on 9 		 No return value
+		[] Applying searchTree on 17
+		[SUCCESS] Applied searchTree on 14 		 No return value
+		[] Applying removeNode on 6
+		[SUCCESS] Applied searchTree on 17 		 No return value
+		[SUCCESS] Applied removeNode on 6 		 No changes made
+
+		Node keys DFS Representation: 1 1 
+
+[Case 33/44] passed
+
+[Case 34/44] - 10 operations
+
+		[] Applying searchTree on 2
+		[] Applying updateNode on 13
+		[SUCCESS] Applied searchTree on 2 		 No return value
+		[] Applying addNode on 16
+		[SUCCESS] Applied updateNode on 13 		 No changes made
+		[] Applying removeNode on 17
+		[SUCCESS] Applied addNode on 16 			 Operation successful
+		[] Applying addNode on 12
+		[SUCCESS] Applied removeNode on 17 		 No changes made
+		[] Applying addNode on 9
+		[SUCCESS] Applied addNode on 12 			 Operation successful
+		[] Applying updateNode on 7
+		[SUCCESS] Applied addNode on 9 			 Operation successful
+		[] Applying removeNode on 15
+		[SUCCESS] Applied updateNode on 7 		 No changes made
+		[] Applying searchTree on 4
+		[SUCCESS] Applied removeNode on 15 		 No changes made
+		[] Applying updateNode on 18
+		[SUCCESS] Applied searchTree on 4 		 No return value
+		[SUCCESS] Applied updateNode on 18 		 No changes made
+
+		Node keys DFS Representation: 16 12 9 
+
+[Case 34/44] passed
+
+[Case 35/44] - 4 operations
+
+		[] Applying updateNode on 7
+		[] Applying removeNode on 12
+		[SUCCESS] Applied updateNode on 7 		 No changes made
+		[] Applying removeNode on 2
+		[SUCCESS] Applied removeNode on 12 		 No changes made
+		[] Applying removeNode on 11
+		[SUCCESS] Applied removeNode on 2 		 No changes made
+		[SUCCESS] Applied removeNode on 11 		 No changes made
+
+		Node keys DFS Representation: 
+
+[Case 35/44] passed
+
+[Case 36/44] - 22 operations
+
+		[] Applying addNode on 4
+		[] Applying addNode on 14
+		[SUCCESS] Applied addNode on 4 			 Operation successful
+		[] Applying searchTree on 12
+		[SUCCESS] Applied addNode on 14 			 Operation successful
+		[] Applying removeNode on 3
+		[SUCCESS] Applied searchTree on 12 		 No return value
+		[] Applying removeNode on 15
+		[SUCCESS] Applied removeNode on 3 		 No changes made
+		[] Applying addNode on 12
+		[SUCCESS] Applied removeNode on 15 		 No changes made
+		[] Applying addNode on 10
+		[SUCCESS] Applied addNode on 12 			 Operation successful
+		[] Applying addNode on 4
+		[SUCCESS] Applied addNode on 10 			 Operation successful
+		[] Applying searchTree on 18
+		[SUCCESS] Applied addNode on 4 			 Operation successful
+		[] Applying addNode on 7
+		[SUCCESS] Applied searchTree on 18 		 No return value
+		[] Applying addNode on 1
+		[SUCCESS] Applied addNode on 7 			 Operation successful
+		[] Applying addNode on 13
+		[SUCCESS] Applied addNode on 1 			 Operation successful
+		[] Applying updateNode on 13
+		[SUCCESS] Applied addNode on 13 			 Operation successful
+		[] Applying searchTree on 17
+		[SUCCESS] Applied updateNode on 13 		 Operation successful - New value: 28668
+		[] Applying addNode on 3
+		[SUCCESS] Applied searchTree on 17 		 No return value
+		[] Applying searchTree on 16
+		[SUCCESS] Applied addNode on 3 			 Operation successful
+		[] Applying addNode on 14
+		[SUCCESS] Applied searchTree on 16 		 No return value
+		[] Applying addNode on 6
+		[SUCCESS] Applied addNode on 14 			 Operation successful
+		[] Applying searchTree on 9
+		[SUCCESS] Applied addNode on 6 			 Operation successful
+		[] Applying removeNode on 11
+		[SUCCESS] Applied searchTree on 9 		 No return value
+		[] Applying searchTree on 11
+		[SUCCESS] Applied removeNode on 11 		 No changes made
+		[] Applying removeNode on 1
+		[SUCCESS] Applied searchTree on 11 		 No return value
+		[SUCCESS] Applied removeNode on 1 		 Operation successful
+
+		Node keys DFS Representation: 4 3 14 12 10 4 7 6 13 14 
+
+[Case 36/44] passed
+
+[Case 37/44] - 17 operations
+
+		[] Applying removeNode on 15
+		[] Applying removeNode on 1
+		[SUCCESS] Applied removeNode on 15 		 No changes made
+		[] Applying addNode on 12
+		[SUCCESS] Applied removeNode on 1 		 No changes made
+		[] Applying searchTree on 4
+		[SUCCESS] Applied addNode on 12 			 Operation successful
+		[] Applying searchTree on 13
+		[SUCCESS] Applied searchTree on 4 		 No return value
+		[] Applying addNode on 17
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying removeNode on 9
+		[SUCCESS] Applied addNode on 17 			 Operation successful
+		[] Applying addNode on 8
+		[SUCCESS] Applied removeNode on 9 		 No changes made
+		[] Applying searchTree on 12
+		[SUCCESS] Applied addNode on 8 			 Operation successful
+		[] Applying removeNode on 6
+		[SUCCESS] Applied searchTree on 12 		 Operation successful
+		[] Applying updateNode on 3
+		[SUCCESS] Applied removeNode on 6 		 No changes made
+		[] Applying updateNode on 3
+		[SUCCESS] Applied updateNode on 3 		 No changes made
+		[] Applying searchTree on 13
+		[SUCCESS] Applied updateNode on 3 		 No changes made
+		[] Applying searchTree on 0
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying removeNode on 15
+		[SUCCESS] Applied searchTree on 0 		 No return value
+		[] Applying updateNode on 11
+		[] Applying addNode on 2
+		[SUCCESS] Applied updateNode on 11 		 No changes made
+		[SUCCESS] Applied removeNode on 15 		 No changes made
+		[SUCCESS] Applied addNode on 2 			 Operation successful
+
+		Node keys DFS Representation: 12 8 2 17 
+
+[Case 37/44] passed
+
+[Case 38/44] - 21 operations
+
+		[] Applying removeNode on 3
+		[] Applying removeNode on 13
+		[SUCCESS] Applied removeNode on 3 		 No changes made
+		[] Applying removeNode on 13
+		[SUCCESS] Applied removeNode on 13 		 No changes made
+		[] Applying updateNode on 17
+		[SUCCESS] Applied removeNode on 13 		 No changes made
+		[] Applying addNode on 1
+		[SUCCESS] Applied updateNode on 17 		 No changes made
+		[] Applying addNode on 17
+		[SUCCESS] Applied addNode on 1 			 Operation successful
+		[] Applying addNode on 13
+		[SUCCESS] Applied addNode on 17 			 Operation successful
+		[] Applying addNode on 11
+		[SUCCESS] Applied addNode on 13 			 Operation successful
+		[] Applying removeNode on 18
+		[SUCCESS] Applied addNode on 11 			 Operation successful
+		[] Applying removeNode on 7
+		[SUCCESS] Applied removeNode on 18 		 No changes made
+		[] Applying removeNode on 18
+		[SUCCESS] Applied removeNode on 7 		 No changes made
+		[] Applying addNode on 19
+		[SUCCESS] Applied removeNode on 18 		 No changes made
+		[] Applying removeNode on 11
+		[SUCCESS] Applied addNode on 19 			 Operation successful
+		[] Applying removeNode on 7
+		[SUCCESS] Applied removeNode on 11 		 Operation successful
+		[] Applying addNode on 5
+		[SUCCESS] Applied removeNode on 7 		 No changes made
+		[] Applying searchTree on 4
+		[SUCCESS] Applied addNode on 5 			 Operation successful
+		[] Applying searchTree on 17
+		[SUCCESS] Applied searchTree on 4 		 No return value
+		[] Applying removeNode on 14
+		[SUCCESS] Applied searchTree on 17 		 Operation successful
+		[] Applying searchTree on 6
+		[SUCCESS] Applied removeNode on 14 		 No changes made
+		[] Applying addNode on 0
+		[SUCCESS] Applied searchTree on 6 		 No return value
+		[] Applying searchTree on 19
+		[SUCCESS] Applied addNode on 0 			 Operation successful
+		[SUCCESS] Applied searchTree on 19 		 Operation successful
+
+		Node keys DFS Representation: 1 0 17 13 5 19 
+
+[Case 38/44] passed
+
+[Case 39/44] - 13 operations
+
+		[] Applying addNode on 6
+		[] Applying removeNode on 6
+		[SUCCESS] Applied addNode on 6 			 Operation successful
+		[] Applying addNode on 17
+		[SUCCESS] Applied removeNode on 6 		 Operation successful
+		[] Applying searchTree on 11
+		[SUCCESS] Applied addNode on 17 			 Operation successful
+		[] Applying updateNode on 2
+		[SUCCESS] Applied searchTree on 11 		 No return value
+		[] Applying addNode on 6
+		[SUCCESS] Applied updateNode on 2 		 No changes made
+		[] Applying addNode on 4
+		[SUCCESS] Applied addNode on 6 			 Operation successful
+		[] Applying searchTree on 13
+		[SUCCESS] Applied addNode on 4 			 Operation successful
+		[] Applying addNode on 16
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying updateNode on 10
+		[SUCCESS] Applied addNode on 16 			 Operation successful
+		[] Applying searchTree on 3
+		[SUCCESS] Applied updateNode on 10 		 No changes made
+		[] Applying removeNode on 14
+		[SUCCESS] Applied searchTree on 3 		 No return value
+		[] Applying updateNode on 0
+		[SUCCESS] Applied removeNode on 14 		 No changes made
+		[SUCCESS] Applied updateNode on 0 		 No changes made
+
+		Node keys DFS Representation: 17 6 4 16 
+
+[Case 39/44] passed
+
+[Case 40/44] - 15 operations
+
+		[] Applying removeNode on 7
+		[] Applying removeNode on 19
+		[SUCCESS] Applied removeNode on 7 		 No changes made
+		[] Applying removeNode on 11
+		[SUCCESS] Applied removeNode on 19 		 No changes made
+		[] Applying removeNode on 1
+		[SUCCESS] Applied removeNode on 11 		 No changes made
+		[] Applying searchTree on 18
+		[SUCCESS] Applied removeNode on 1 		 No changes made
+		[] Applying removeNode on 12
+		[SUCCESS] Applied searchTree on 18 		 No return value
+		[] Applying updateNode on 9
+		[SUCCESS] Applied removeNode on 12 		 No changes made
+		[] Applying searchTree on 8
+		[SUCCESS] Applied updateNode on 9 		 No changes made
+		[] Applying searchTree on 6
+		[SUCCESS] Applied searchTree on 8 		 No return value
+		[] Applying removeNode on 8
+		[SUCCESS] Applied searchTree on 6 		 No return value
+		[] Applying removeNode on 4
+		[SUCCESS] Applied removeNode on 8 		 No changes made
+		[] Applying addNode on 7
+		[SUCCESS] Applied removeNode on 4 		 No changes made
+		[] Applying searchTree on 13
+		[SUCCESS] Applied addNode on 7 			 Operation successful
+		[] Applying removeNode on 2
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying updateNode on 17
+		[SUCCESS] Applied removeNode on 2 		 No changes made
+		[SUCCESS] Applied updateNode on 17 		 No changes made
+
+		Node keys DFS Representation: 7 
+
+[Case 40/44] passed
+
+[Case 41/44] - 9 operations
+
+		[] Applying searchTree on 5
+		[] Applying removeNode on 5
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[] Applying removeNode on 18
+		[SUCCESS] Applied removeNode on 5 		 No changes made
+		[] Applying removeNode on 12
+		[SUCCESS] Applied removeNode on 18 		 No changes made
+		[] Applying searchTree on 9
+		[SUCCESS] Applied removeNode on 12 		 No changes made
+		[] Applying searchTree on 6
+		[SUCCESS] Applied searchTree on 9 		 No return value
+		[] Applying updateNode on 19
+		[SUCCESS] Applied searchTree on 6 		 No return value
+		[] Applying updateNode on 2
+		[SUCCESS] Applied updateNode on 19 		 No changes made
+		[] Applying searchTree on 11
+		[SUCCESS] Applied updateNode on 2 		 No changes made
+		[SUCCESS] Applied searchTree on 11 		 No return value
+
+		Node keys DFS Representation: 
+
+[Case 41/44] passed
+
+[Case 42/44] - 11 operations
+
+		[] Applying searchTree on 13
+		[] Applying searchTree on 17
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying updateNode on 19
+		[SUCCESS] Applied searchTree on 17 		 No return value
+		[] Applying updateNode on 5
+		[SUCCESS] Applied updateNode on 19 		 No changes made
+		[] Applying removeNode on 5
+		[SUCCESS] Applied updateNode on 5 		 No changes made
+		[] Applying updateNode on 19
+		[SUCCESS] Applied removeNode on 5 		 No changes made
+		[] Applying searchTree on 3
+		[SUCCESS] Applied updateNode on 19 		 No changes made
+		[] Applying searchTree on 1
+		[SUCCESS] Applied searchTree on 3 		 No return value
+		[] Applying removeNode on 10
+		[SUCCESS] Applied searchTree on 1 		 No return value
+		[] Applying searchTree on 5
+		[SUCCESS] Applied removeNode on 10 		 No changes made
+		[] Applying updateNode on 16
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[SUCCESS] Applied updateNode on 16 		 No changes made
+
+		Node keys DFS Representation: 
+
+[Case 42/44] passed
+
+[Case 43/44] - 7 operations
+
+		[] Applying searchTree on 18
+		[] Applying addNode on 0
+		[SUCCESS] Applied searchTree on 18 		 No return value
+		[] Applying updateNode on 8
+		[SUCCESS] Applied addNode on 0 			 Operation successful
+		[] Applying searchTree on 1
+		[SUCCESS] Applied updateNode on 8 		 No changes made
+		[] Applying searchTree on 13
+		[SUCCESS] Applied searchTree on 1 		 No return value
+		[] Applying removeNode on 10
+		[SUCCESS] Applied searchTree on 13 		 No return value
+		[] Applying updateNode on 3
+		[SUCCESS] Applied removeNode on 10 		 No changes made
+		[SUCCESS] Applied updateNode on 3 		 No changes made
+
+		Node keys DFS Representation: 0 
+
+[Case 43/44] passed
+
+[Case 44/44] - 2 operations
+
+		[] Applying searchTree on 5
+		[] Applying updateNode on 8
+		[SUCCESS] Applied searchTree on 5 		 No return value
+		[SUCCESS] Applied updateNode on 8 		 No changes made
+
+		Node keys DFS Representation: 
+
+[Case 44/44] passed
